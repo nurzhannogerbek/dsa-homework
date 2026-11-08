@@ -1,0 +1,56 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Secrets (keep only templates)
+.env
+.env.*
+!.env.example
+
+# Jupyter
+.ipynb_checkpoints/
+.virtual_documents/
+
+# Tool caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Packaging
+build/
+dist/
+*.egg-info/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# Course CSVs stay local (HW02: do not commit orders.csv)
+orders.csv
+**/orders.csv
+
+# Data and model artifacts (GitHub rejects files > 100 MB)
+data/raw/
+*.zip
+*.pkl
+*.joblib
+mlruns/
+wandb/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
