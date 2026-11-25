@@ -9,3 +9,4 @@
 | 03 | NumPy: создание массивов и индексация     | [hw03](hw03/) |
 | 04 | NumPy: операции, axis и broadcasting      | [hw04](hw04/) |
 | 05 | Pandas: Series, DataFrame и фильтры       | [hw05](hw05/) |
+| 06 | Pandas: очистка данных                    | [hw06](hw06/) |
