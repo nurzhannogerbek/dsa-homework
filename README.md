@@ -10,3 +10,4 @@
 | 04 | NumPy: операции, axis и broadcasting      | [hw04](hw04/) |
 | 05 | Pandas: Series, DataFrame и фильтры       | [hw05](hw05/) |
 | 06 | Pandas: очистка данных                    | [hw06](hw06/) |
+| 07 | Pandas: groupby, pivot, merge             | [hw07](hw07/) |

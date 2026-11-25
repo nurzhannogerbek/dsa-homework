@@ -37,6 +37,8 @@ dist/
 # Course CSVs stay local (HW02: do not commit orders.csv)
 orders.csv
 **/orders.csv
+customers.csv
+**/customers.csv
 
 # Data and model artifacts (GitHub rejects files > 100 MB)
 data/raw/
